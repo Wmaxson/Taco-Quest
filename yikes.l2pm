@@ -1,0 +1,32 @@
+*<*GAMETITLE*>*
+Taco Queast
+*<*NAME*>*
+Max
+*<*LINK*>*
+https://wmaxson.github.io/Taco-Quest/ddrr.jar
+*<*IMAGES*>*
+*<*ENDALLIMAGES*>*
+*<*FONT*>*
+serif
+*<*COLORS*>*
+229
+223
+198
+*<*QUESTIONS*>*
+This game was originally going to be a Dance Dance Revolution type game with arrow keys. But, as the game evolved, I like the idea of monsters as the games enemy, and it became this.
+*<*ENDQUESTION*>*
+One of the suggestions I got was to add a boss. The boss was more aesthetic, as it did not change gameplay a ton, I still likes how it turned out.
+Another suggestion I got, was to make the game faster. The projectiles where going too slow, and it made the game dull. So, I made the game faster, and more exiting, but still relatively easy.
+*<*ENDQUESTION*>*
+The code runs, by having all of small pieces of the project feeding into larger ones. 
+
+For example: The Projectile class is run in the Enemy class, which is run in the, EnemyManager class, which is run in the panel class, which is run in the runner class. 
+*<*ENDQUESTION*>*
+I am very proud that the game runs, and doesn't freeze upon opening.
+*<*ENDQUESTION*>*
+The most challenging part of the project was my stupidity, and my two brain cells not cooperating.
+*<*ENDQUESTION*>*
+I would like to display the boss's health, and add a death animation.
+*<*ENDQUESTION*>*
+*<*CUSTOMTOPICS*>*
+*#*EOF*#*
